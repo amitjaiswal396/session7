@@ -2,7 +2,7 @@
 
 Main File:-- main.ipnb 
 
-import file
+imported file
 
 datasetloader.py
 this file load cifar10 data.set
